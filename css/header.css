@@ -12,6 +12,10 @@
     font-family: 'Inter ExtraBold';
     src: url('../assets/fonts/static/Inter-ExtraBold.ttf')
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
 * {
     margin: 0;
     padding: 0;
@@ -24,7 +28,11 @@ html {
 
 body {
     padding: 4rem 2rem;
+<<<<<<< HEAD
     background-color: hsl(36, 100%, 99%);
+=======
+    background-color: hsl(36, 100%,99%);
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
 }
 
 .navigation {
@@ -59,7 +67,11 @@ body {
 .navigation__container a {
     text-decoration: none;
     font-size: 1.4rem;
+<<<<<<< HEAD
     font-family:'Inter', sans-serif;
+=======
+    font-family: 'Inter', sans-serif;
+>>>>>>> 112f149ca6712e95bf18fc0e79bda83c231bacba
     color: hsl(236, 13%, 42%);
 }
 
